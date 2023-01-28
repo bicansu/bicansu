@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cansu</h1>
 <h3 align="center">Computer Engineer</h3>
 
-- 🌱 I’m currently learning **ASP.NET CORE**
+- 🌱 I’m currently learning **ASP.NET CORE 5.0**
 
 - 📫 How to reach me **cansubican11@gmail.com**
 
